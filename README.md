@@ -2,6 +2,8 @@
 
 The Rack Chuck middleware adds chuck norris facts in the headers of your rack-based web application.
 
+[![Build Status](https://secure.travis-ci.org/delicious-development/rack-chuck.png?branch=master)](http://travis-ci.org/delicious-development/rack-chuck)
+
 ## Installation
 
 Add this line to your application's Gemfile:
