@@ -1,4 +1,5 @@
-require 'rack'
-class Rack::Chuck
-  VERSION = "0.0.2"
+module Rack
+  class Chuck
+    VERSION = "0.0.2"
+  end
 end
