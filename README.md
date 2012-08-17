@@ -1,4 +1,4 @@
-# Rack::Chuck [![Build Status](https://secure.travis-ci.org/delicious-development/rack-chuck.png?branch=master)](http://travis-ci.org/delicious-development/rack-chuck)
+# Rack::Chuck [![Build Status](https://secure.travis-ci.org/delicious-development/rack-chuck.png?branch=master)](http://travis-ci.org/delicious-development/rack-chuck) [![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/delicious-development/rack-chuck)
 
 
 The Rack Chuck middleware adds chuck norris facts in the headers of your rack-based web application.
