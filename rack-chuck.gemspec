@@ -8,6 +8,7 @@ Gem::Specification.new do |gem|
   gem.description   = %q{Rack middleware to add chuck norris fact headers}
   gem.summary       = %q{Chuck Norris facts middleware}
   gem.homepage      = "https://github.com/delicious-development/rack-chuck"
+  gem.licenses      = ['MIT']
 
   gem.files         = `git ls-files`.split($\)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
