@@ -6,7 +6,7 @@ Gem::Specification.new do |gem|
   gem.authors       = ["Henrik Paulini", "Ben Rexin", "Matthias Bauer", "Waldemar Gribele", "Stefan Rohde"]
   gem.email         = ["contact@delicious-development.com"]
   gem.description   = %q{Rack middleware to add chuck norris fact headers}
-  gem.summary       = %q{}
+  gem.summary       = %q{Chuck Norris facts middleware}
   gem.homepage      = "https://github.com/delicious-development/rack-chuck"
 
   gem.files         = `git ls-files`.split($\)
