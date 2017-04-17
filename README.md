@@ -1,5 +1,7 @@
 # Rack::Chuck [![Build Status](https://secure.travis-ci.org/delicious-development/rack-chuck.png?branch=master)](http://travis-ci.org/delicious-development/rack-chuck) [![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/delicious-development/rack-chuck)
 
+[![Join the chat at https://gitter.im/delicious-development/rack-chuck](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/delicious-development/rack-chuck?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 The Rack Chuck middleware adds chuck norris facts in the headers of your rack-based web application.
 
